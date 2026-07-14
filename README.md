@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Hi, I'm Joao Paulo 👋</h1>  
+<h1 align="center">Hi, I'm JP Oliveira 👋</h1>  
 
 <p align="center">  
 
