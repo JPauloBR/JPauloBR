@@ -102,7 +102,6 @@ Python (FastAPI, Flask) · LangChain · LangGraph · MCP · A2A Arize · LangSmi
 - 🎓 **BS, Computer Science** — UFSCar (2002)
 - 🌎 20+ years across AT&T, Cricket Wireless, Nextel, Telefônica, VIVO
 
-```
 
 <p align="center"><i>Let's talk agentic architecture, LangGraph/MCP, wireline modernization, or building engineering teams.</i></p>
 
