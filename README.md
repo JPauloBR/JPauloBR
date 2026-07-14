@@ -74,8 +74,6 @@
 
 Python (FastAPI, Flask) · LangChain · LangGraph · MCP · A2A Arize · LangSmith · OpenAI · Azure OpenAI · Anthropic AWS · Azure · GCP · Docker · Kubernetes (AKS) MongoDB · ClickHouse · MySQL Java · JavaScript / TypeScript
 
-```
-
 ### 📌 Featured repositories
 
 | Repo | What it shows |
